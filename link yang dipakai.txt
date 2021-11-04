@@ -1,0 +1,16 @@
+Gambar Banner = https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg
+
+Gambar Portofolio 1 = https://bikin.website/wp-content/themes/twentynineteen-child/img/feature-page/img_responsive.png
+Gambar Portofolio 2 = https://www.elsevier.com/__data/assets/image/0004/823261/information-system-supporting-science.jpg
+Gambar Portofolio 3 = https://media.suara.com/pictures/480x260/2020/04/18/15789-cara-membuat-website.jpg 
+Gambar Portofolio 4 = https://trinetprimasolusi.net/wp-content/uploads/2019/11/Management-Information-System.jpg
+Gambar Portofolio 5 = https://accounting.binus.ac.id/files/2019/07/KSInformationSystem-1515206840.jpg
+Gambar Portofolio 6 = https://i0.wp.com/quipperhome.wpcomstaging.com/wp-content/uploads/2019/04/45a18-template-image-blog-white-4.png?resize=800%2C533
+
+Gambar About Us = https://img.freepik.com/free-vector/about-us-website-banner-concept-with-thin-line-flat-design_56103-96.jpg?size=626&ext=jpg
+
+Gambar Staff 1 = https://s3.amazonaws.com/cms-assets.tutsplus.com/uploads/users/810/profiles/19338/profileImage/profile-square-extra-small.png
+Gambar Staff 2 = http://gokubi.com/wp-content/uploads/2013/10/Steve-Andersen-Headshot-square1.jpeg
+Gambar Staff 3 = https://www.kingrosales.com/wp-content/uploads/2018/05/king-rosales-profile-photo-square.jpg
+
+Gambar Kontak = https://wallpaperaccess.com/full/1867010.jpg
